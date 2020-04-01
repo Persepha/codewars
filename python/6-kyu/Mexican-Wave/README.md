@@ -1,6 +1,6 @@
 # Mexican Wave (6 kyu)
 
-[Exes and Ohs codewars link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
+[Mexican Wave codewars link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
 
 ## Details
 #### Introduction
